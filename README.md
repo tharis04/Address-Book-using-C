@@ -1,4 +1,4 @@
-# 📒 Address Book in C
+# 📒 Address Book Management System using C
 
 A simple **Address Book application** is a C based application designed to manage contact information efficiently.
 The application allows users to add, list, search, edit, and delete contacts.  
