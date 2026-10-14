@@ -18,6 +18,12 @@ Address Book is a console-based application written in C. It is designed to keep
 
 The aim of the Address Book project is to provide a simple, menu-driven way to manage contact information. Users can add, view, search, update, and delete contacts, and save the contact list to a data file.
 
+📄 Project Presentation
+
+Access the complete project presentation here:
+
+👉 "View Project Presentation (Google Drive)" (https://drive.google.com/file/d/1lAGitNn5hPN7Vncwh8muastC3h5lvmW9/view?usp=drivesdk)
+
 ## Features
 
 - **Add Contact:** Add a new contact to the list.
